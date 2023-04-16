@@ -15,3 +15,6 @@
 
 ### License
 - This project is licensed under the MIT.
+
+##### Note: 
+- This contract is intended for educational and experimental purposes only and should not be used for any actual auction system without complete satisfaction.
